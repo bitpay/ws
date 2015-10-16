@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/websockets/ws.git"
+    "url": "git://github.com/bitpay/ws.git"
   },
   "scripts": {
     "test": "make test"
@@ -25,8 +25,8 @@
     "ultron": "1.0.x"
   },
   "optionalDependencies": {
-    "bufferutil": "1.2.x",
-    "utf-8-validate": "1.2.x"
+    "bufferutil": "https://github.com/bitpay/utf-8-validate#48685d98290f9a4b355c046ccf1fbc47bf8692c5",
+    "utf-8-validate": "https://github.com/bitpay/utf-8-validate#c82fc9c34fa14a79dd6d775f1389fcc190c33767"
   },
   "devDependencies": {
     "ansi": "0.3.x",
