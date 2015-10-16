@@ -25,7 +25,7 @@
     "ultron": "1.0.x"
   },
   "optionalDependencies": {
-    "bufferutil": "https://github.com/bitpay/utf-8-validate#master",
+    "bufferutil": "https://github.com/bitpay/bufferutil#master",
     "utf-8-validate": "https://github.com/bitpay/utf-8-validate#master"
   },
   "devDependencies": {
